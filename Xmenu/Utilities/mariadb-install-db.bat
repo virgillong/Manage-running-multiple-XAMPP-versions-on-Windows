@@ -1,0 +1,1 @@
+mariadb-install-db.exe --datadir="D:/Xampp/Xampp 8.3/mysql/data"
