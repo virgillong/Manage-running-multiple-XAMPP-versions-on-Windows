@@ -1,0 +1,43 @@
+
+==========================
+ WinForms Enums Cheat Sheet
+==========================
+
+--- DialogResult ---
+OK
+Cancel
+Yes
+No
+Abort
+Retry
+Ignore
+
+--- MessageBoxButtons ---
+OK
+OKCancel
+YesNo
+YesNoCancel
+RetryCancel
+AbortRetryIgnore
+
+--- MessageBoxIcon ---
+None
+Information
+Warning
+Error
+Question
+
+--- FormStartPosition ---
+Manual
+CenterScreen
+CenterParent
+WindowsDefaultLocation
+
+--- FormBorderStyle ---
+None
+FixedSingle
+Fixed3D
+FixedDialog
+Sizable
+FixedToolWindow
+SizableToolWindow

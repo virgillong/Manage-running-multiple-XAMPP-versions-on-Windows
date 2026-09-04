@@ -1,0 +1,6 @@
+Xampp-8.2|6086794e-ed8a-4706-ba41-7cad79170229|localhost/postalsupply|{DRIVE}\Xampp-8.2
+Xampp-8.3|f8b7c402-0a13-4611-9b84-78d01dcc4502|localhost/postalsupply|{DRIVE}\Xampp-8.3
+Xampp-8.5|64c7fbbe-7783-4ef2-bca4-f4046b354ecf|localhost/postalsupply|{DRIVE}\Xampp-8.5
+Xampp-5.6|d37e0197-87ed-4601-8333-ba855d33ec89|localhost/swd|{DRIVE}\Xampp-5.6|{DRIVE}\xmenu\etc\chkelastic.ps1
+Nexus Portal|e1e172e3-0eef-4f60-91bd-dd97b675d86e|https://my.nexcess.net/
+Staging Site|4fb7db9f-cbbf-48a1-8ca0-029be60fac8e|https://52fe705521.nxcli.io/

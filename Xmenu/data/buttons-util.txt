@@ -1,0 +1,8 @@
+WordPress Backup|e7ad5f42-75a4-4df3-bdcf-a8f7ea8cfd7b|{DRIVE}\xmenu\etc\WordPressBackup.ps1|
+MySQL DB Managment|ce15e907-cf37-40db-8188-8097386dbf12|{DRIVE}\xmenu\etc\mysqlMaint.ps1|
+Install New Website|f78a2f00-0122-4e01-9f32-49bc1aee1983|{DRIVE}\xmenu\etc\newWebsite.ps1|
+Setup Xampp to run in a new directory|3fd78612-015f-468e-8641-128eba9b09d5|{DRIVE}\xmenu\etc\setupXampp.ps1
+Shutdown PHP and MYSQL ports|8d6284c0-5c8c-4fe7-8f3d-792940c6b8dc|{DRIVE}\xmenu\etc\chkports.ps1|
+Add Shortcut to Desktop|feea9a6c-2aa0-4d6b-80be-a996dc76a915|{DRIVE}\xmenu\etc\installShortcut.ps1
+Filezilla|27dedbf1-8496-40cd-a7ed-cb16b07710de|{DRIVE}\xmenu\Utilities\FileZillaPortable\FileZillaPortable.exe|
+WinSCP|c7b70bee-023a-4e49-80d8-eb55a85f84c7|{DRIVE}\xmenu\Utilities\winscp\WinSCP.exe|
