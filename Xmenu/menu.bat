@@ -111,7 +111,7 @@ if /I "!DisplayMenu!"=="true" (
 )
 
 if "%menuChoice%"=="0" goto END
-if "%menuChoice%"=="x" goto Menu
+if "%menuChoice%"=="x" goto Exit
 if "%MenuChoice%"=="u" goto UTILMENU
 
 REM if display menu is true, get menu choice
@@ -379,7 +379,8 @@ goto UTILMENU
 REM **************************************
 :EXIT
 REM terminate xampp control process 
-call "%rootDir%etc\stopXampp.bat"
+
+powershell -ExecutionPolicy Bypass -File "%rootDir%etc\stopXampp.ps1" -xamppDir "!xamppDirCur!"
 
 REM Check to see if elastic search is active
 set URL=http://localhost:9200
